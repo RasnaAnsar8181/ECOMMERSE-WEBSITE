@@ -1,0 +1,39 @@
+
+.main{
+    width:600px;
+    height:800px;
+    margin-top: 60px;
+    color:white;
+}
+.outerdiv{
+    width:100%;
+    margin-top: 100px;
+    background-color: rgb(83, 198, 216);
+    display: flex; 
+    justify-content:space-evenly;     
+}
+.btncontact{
+    background-color: rgb(2, 90, 104);
+    color:white;
+    font-weight: 600;
+    font-size: x-large;
+    width:100%;
+    height: 50px;
+    border-radius: 7px;
+}
+.btncontact:hover{
+    background-color: rgb(12, 191, 219);
+    color:white;
+}
+.address{
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    margin-bottom: 20px;
+}
+.address p{
+    text-align: center;
+}
+    

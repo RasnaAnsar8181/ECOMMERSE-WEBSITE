@@ -1,0 +1,18 @@
+
+ .hrpro{
+     border: 4px solid  brown;
+     width: 500px;  
+     margin: auto;    
+ }
+ 
+ .product_h4{
+    text-align: center;
+    text-transform: uppercase;
+    color: brown;
+    font-size: x-large;
+    font-weight: 800;
+    /* width: 400px; */
+} 
+#product-b{
+    background-color: rgb(2, 90, 104);
+}
